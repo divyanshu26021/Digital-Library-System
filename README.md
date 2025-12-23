@@ -65,9 +65,6 @@ A web application designed for efficient management of library activities, inclu
 - [NodeJs Documentation](https://nodejs.org/en/docs/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
-## Author 📝
-
-- [@AdityaMISHRA2803](https://github.com/AdityaMISHRA2803/Digital-Library-System.git)
 
 
 ## License 🏆
